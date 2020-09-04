@@ -1,1 +1,1 @@
-# Java-ccizer
+Dummy template
